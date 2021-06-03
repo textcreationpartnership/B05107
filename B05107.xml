@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons why the Commissariot-Courts ought to be abolished</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05107</idno><idno type="EEBO-CITATION">51617491</idno>
+  <idno type="VID">175334</idno>
+  <idno type="EEBO-PROQUEST">2240883737</idno>
+  
+            <idno type="STC">Wing R587A</idno>
+            <idno type="STC">ESTC R187218</idno>
+            <idno type="OCLC">51617491</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05107)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175334)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2730:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons why the Commissariot-Courts ought to be abolished</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Imperfect: faded print with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Commissary Court (Edinburgh).</term>
+               <term type="topical_term">Courts --  Scotland --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175334:1"/>
+            <head>
+               <hi>REASONS</hi> Why the Commissariot-Courts ought to be Abolished.</head>
+            <p>COmmissariot Courts were at fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st introduced in the time of Popery, to sup<g ref="char:EOLhyphen"/>por that Usurped Jurisdict<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, which the Pope and his Clergy were pre<g ref="char:EOLhyphen"/>tending to in civil Affairs, and as at that time, Knowledge and Conscience was thought, only to have been lodged within the breasts of the Clergy, so thereby they inhansed to themselves the Cognition of all Causes, that had any relation to Conscience, let it be never so remote, and seing that now the World is disabused, and neither the Church pretends to any civil Jurisdiction, nor the Clergy to be the only men of Knowledge and Conscience, that Jurisdiction and Cognition which was taken from the several civil Judicatures, and given to the Bishops and their Officials; ought to be restored to them, since that other Judges are known, to be men of no less Conscience and Knowledge than they.</p>
+            <p n="2">2. Though that since the Reformation, Commissariot Courts has been continu<g ref="char:EOLhyphen"/>ed, partly thorow the Influence and Interest that the Bishops had, who did like<g ref="char:EOLhyphen"/>wise Asp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re to some kind of civil Jurisdiction, and partly thorow the Interests that the Commissars themselves and their Relations had, as also out of some Prospect, that the saids Courts might be an Ease and Advantagious to the Leidges, they containing themselves within their just Bounds and Limits, yet all the Methods used hitherto for that Pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pose, has proved altogether ineffe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tual, and notwith<g ref="char:EOLhyphen"/>standing of all the Regulations anent them, they have hitherto proven an unsup<g ref="char:EOLhyphen"/>portable burden to the Leidges, and have observed none of them.</p>
+            <p>They have hitherto taken Cognition of all Causes of whatsoever kind and na<g ref="char:EOLhyphen"/>ture, be the Sums great or small, they are in use to sustain themselves Judges to Services, Cognitions of all kinds, yea to pronunce Decreets of Poynding of the Ground, and never decline themseles, though that the Probation do proceed only upon Writ, and the Matter concern only Heretable Rights, yea though there be Competition of Rights, they still decide and also determine.</p>
+            <p>Though that this present current Parliament did take away the necessity of Con<g ref="char:EOLhyphen"/>firmations, by which Artifice, they did grind the faces of the Poor, yet because that general Assignations, are still to be Confirmed under that Pretence, they do as much exact from, and oppress the Leidges as ever.</p>
+            <p>They are likewise in custom to grant to the Leidges Licences to pursue, but these Licences at the granting, are so qualified, that they are to be extended to no Actions, but such as are prosecute before themselves, whereby they constitute a kind of Thirlage to themselves, and the Leidges are restricted to their own Judicatures.</p>
+            <p>As the Commissariot Courts has hitherto been a burden upon the Nation, and by the Meeting of Estates reckoned among the Grievances, which are to be Re<g ref="char:EOLhyphen"/>dressed, and were in effect made up, by Incroaching upon the other several Judi<g ref="char:EOLhyphen"/>catures of the Kingdom, on purpose to support the Usurped Jurisdiction of the
+<pb n="2" facs="tcp:175334:2"/> Clergy, so there seems no necessity at all for then Continu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ther proper Province was only to Judge and Decide in Causes concerning Benef<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, Te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, Confirmat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons of Testaments, Causes Testamentar, Scandal, and other Matters whe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th of Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty is required, providing the same do not <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eed fou<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y Po<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>i <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rts</hi> conform as they are set down in the Instructions given to the Com<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, by K. <hi>Charles</hi> 2. <hi>anno</hi> 1666, all which can be better performe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ea<g ref="char:EOLhyphen"/>ter Ease and Advantage to the Leidges, by other Judges than the Commissa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s.</p>
+            <p>F<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as to the Tithes, there is no part of our Law that is more Intricat, and a<g ref="char:EOLhyphen"/>ny thing relating thereto, ought either to be determined by the Commission of P<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iament, fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Plantation of Kirks and Valuation of Teinds, or if the question <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ent the Competition of Rights to the Tithes, the same ought to be deter<g ref="char:EOLhyphen"/>mined by the Lords of Session, Privative of all other Judges, because that that part of our Law as said is, is the most intricate, the most obscure, and often times consisting in <hi>apicibus juris,</hi> and therefore only proper to be cognosced by them.</p>
+            <p>As to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Confirmation of T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>staments, and Causes Test<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mentar by this present current Parliament, the necessity of Confirmations is already taken away, and why that Sheriffs and other Judges may not be as capable to cause the party make Inventar of the Defuncts Goods, and find Caution in case of general Assignations, as well as they do in Curatories: It cannot be understood. And certainly, as it is as great security, so it would be an extraordinary Ease to the Leidges, if they could Apply to the nearest Judge for that Effect: and not to be Obliged to Tra<g ref="char:EOLhyphen"/>vel a great way, and to be at grat Charges and Epences in applying to the Com<g ref="char:EOLhyphen"/>missaries, and attending to the Commissariot Court.</p>
+            <p>And as to Matters of Scandal, it is unreasonable that the Commissaries should be only Judges thereto; for this belongs properly to the Churh-judicatorie: and who have their respective Magistrats within their Bounds, to Concur with them, and interpose their Authority therein, and cause their Sentences be put in Execu<g ref="char:EOLhyphen"/>tion. As also by Act of Parliament, the Justices of Peace are Judges competent to Scandal, and for these <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no necessity of continuing the Commissar Court for that purpose.</p>
+            <p>As to matters within fourty pounds <hi>Scots,</hi> which be referred to Oath of Party, it is humbly conceived, there is not a Magistrat nor Judge in <hi>Scotland,</hi> but is ca<g ref="char:EOLhyphen"/>pable to administer an Oath, especially <hi>in rebus levibus,</hi> not exceeding fourty pounds <hi>Scots,</hi> as hiterto they have been; so that there is not the least ground of continuing the Commissariots for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat purpose.</p>
+            <p>And now there remains only Divorces and Nullities of Marriage, as to which, most unjustly and unreasonably, the Commissars has been hitherto Judg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Pri<g ref="char:EOLhyphen"/>vative; For these matters <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e not only of great consequence and import, but if we either reckon the varieties of Cases and Circumstances, by different Laws and Constitutions of most Nati<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of the World, the difference of Opinions of both Lawers and Divines, anent these matters, and the great number of Volumes that is written thereupon, the many Subtilties and Intricacies therein contained, it may be justly thought, that the most qualified Judges, and the greatest Lawer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are hardly sufficient to Determine these matters, and consequently, the Lor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of Session ought to be the only Judges Privative thereto, or that the same may be remit to an Assembly of Divines, who ought to be well Versed in such Questi<g ref="char:EOLhyphen"/>ons, as it was at the beginning of our Reformation.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
